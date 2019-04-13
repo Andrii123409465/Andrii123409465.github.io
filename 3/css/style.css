@@ -1,0 +1,95 @@
+/* Header, footer */
+
+header, footer {
+  background-color: #38b6ff;
+}
+/*menu*/
+#nav{
+	padding:10px 0 5px 0;
+	list-style-type:none;
+	font-family:Arvo,serif;
+	font-size:22px;
+	text-align:center;
+	text-transform:uppercase;
+}
+#nav li{
+	display:inline;
+	margin-right:20px;
+}
+#nav a{
+	text-decoration:none;
+	color:#000000;
+	font-weight:bold;
+	display:inline-block;
+}
+a:hover{
+	border-radius:10px 10px;
+	background-color:#d9e2e2;
+	color:#0e54d6;
+}
+h1,h2{
+	text-align: center;
+}
+.rr{
+	color:#1fa59f;
+}
+.row{
+	color:#3baae2;
+}
+.sss{
+	color:#000000; 
+}
+.qq{
+	color:#000000;
+}
+.ss{
+	color:#6da7c4;
+}
+.s{
+ 	color:#2bbc85;
+}
+.q{
+ 	color:#9413c6; 
+}
+.qqq{
+	color:#2918e0; 
+}
+.a{
+   	color:#e00b47; 
+}
+.aa{
+	color:#0be060; 
+}
+.aaa{
+	color:#629b1d; 
+}
+.w{
+	color:#e2c936; 
+}
+.ww{
+	color:#ef8623;
+}
+.www{
+	color:#aa6627; 
+}
+.z{
+	color:#99320d; 
+}
+.zz{
+	color:#c1271f 
+}
+.zzz{
+   	color:#b4ce3d
+}
+.x{
+   	color:yellow; 
+}
+.xx{
+	color:blue; 
+}
+.xxx{
+	color:#e0d66b;
+}
+.c{
+	color:#0d7ae0; 
+}
